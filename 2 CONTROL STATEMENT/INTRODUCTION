@@ -1,0 +1,27 @@
+Control Statement : 
+The statement or instructions are used to inform the computer to perform the task when the program is being executed.
+
+Control statement can be categorized as :
+
+a. Sequential control statement 
+b. Conditional control statement 
+   (Decision control statement) 
+c. Looping control statement 
+d. Switch control statement (Not directly supported in python)
+   The concept of Switch control statement in python is achieved by:  
+   i. match
+   ii. if elif else 
+   iii. dictionary
+
+a. Sequential control statement 
+
+   Input -------------> Formula Implementation(Process) ----------> Output 
+ex: p,r,t               si = (p*r*t)/100                        output: si 
+ex: f                   c = (f-32)*5/9                          output: c 
+
+b. Conditional control statement 
+   (Decision control statement)
+    i. if statement 
+    ii. if else statement 
+    iii. nested if else statement 
+    iv. if elif else  

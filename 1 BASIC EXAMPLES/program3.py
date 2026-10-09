@@ -1,0 +1,5 @@
+print(chr(65))
+print(chr(97))
+print(chr(128512),chr(128515),chr(128516),chr(128518),chr(128520))
+print(ord('Z'))
+print(ord('य'))
